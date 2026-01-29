@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 import scripts.classes.storage as storage
 
-bot = telebot.TeleBot('7474019137:AAHaSJjv1gh8i2-0pbILc4YuU5s30K4sQYs')
+bot = telebot.TeleBot('')
 
 user_files = {}
 
